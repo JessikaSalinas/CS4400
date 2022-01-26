@@ -1,3 +1,5 @@
+// Grade received: 100/100
+
 /*
  * Author: Daniel Kopta
  * Updated by: Erin Parker
