@@ -1,3 +1,5 @@
+// Grade received: 58.57/100
+
 /* 
  * tsh - A tiny shell program with job control
  */
