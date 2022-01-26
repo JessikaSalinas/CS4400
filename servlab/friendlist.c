@@ -1,5 +1,5 @@
 // Grade received: 100/100
-
+ 
 /*
  * friendlist.c - [Starting code for] a web-based friend-graph manager.
  *
