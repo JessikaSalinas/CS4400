@@ -12,8 +12,8 @@
  * Please fill in the following student struct 
  */
 student_t student = {
-  "Jessika Jimenez",     /* Full name */
-  "u0864868@umail.utah.edu",  /* Email address */
+  "Jane Doe",     /* Full name */
+  "u1234567@umail.utah.edu",  /* Email address */
 };
 
 /***************
