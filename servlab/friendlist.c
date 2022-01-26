@@ -1,3 +1,5 @@
+// Grade received: 100/100
+
 /*
  * friendlist.c - [Starting code for] a web-based friend-graph manager.
  *
@@ -7,9 +9,6 @@
  *   Tiny Web server
  *   Dave O'Hallaron
  *   Carnegie Mellon University
- * 
- * Name: Jessika Jimenez
- * UID: u0864868
  * 
  */
 
