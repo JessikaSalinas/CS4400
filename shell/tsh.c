@@ -1,8 +1,5 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
- * Name: Jessika Jimenez                                                                            
- * UID:  u0864868 
  */
 #include <stdio.h>
 #include <stdlib.h>
