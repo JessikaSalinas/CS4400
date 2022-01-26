@@ -12,8 +12,6 @@
  * updating register and memory contents.
  *
  * Some code and pseudo code has been provided as a starting point.
- *
- * Completed by: Jessika Jimenez (u0864868)
 */
 
 #include <stdio.h>
