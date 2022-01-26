@@ -1,12 +1,11 @@
+// Grade received: 76/100
+
 /*
  * mm-naive.c - The least memory-efficient malloc package.
  * 
  * In this naive approach, a block is allocated by allocating a
  * new page as needed.  A block is pure payload. There are no headers or
  * footers.  Blocks are never coalesced or reused.
- *
- * Name: Jessika Jimenez
- * UID: u0864868
  * 
  * NOTE TO STUDENTS: Replace this header comment with your own header
  * comment that gives a high level description of your solution.
